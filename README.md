@@ -4,4 +4,4 @@ PASTE THE 6.1 ON your ROCM or just the library
 REF  URL=https://github.com/brknsoul/ROCmLibs/?tab=readme-ov-file#added-optimised_rocmlibs_gfx10327z-for-gfx1032-6600
 REF URL https://github.com/likelovewant/ollama-for-amd/releases
 
-https://bit.ly/3Utn6Ry
+WORKING FILES : https://bit.ly/3Utn6Ry
