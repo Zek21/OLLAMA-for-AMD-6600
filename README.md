@@ -6,4 +6,6 @@ REF URL https://github.com/likelovewant/ollama-for-amd/releases
 
 Copy the 6.1 to  %ProgramFiles%\AMD\ROCm\
 Paste the files on the  %USERPROFILE%\AppData\Local\Programs\Ollama
+
+
 WORKING FILES : https://bit.ly/3Utn6Ry
