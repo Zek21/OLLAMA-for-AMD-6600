@@ -9,6 +9,6 @@ Copy the 6.1 to  %ProgramFiles%\AMD\ROCm\
 Paste the files on the  %USERPROFILE%\AppData\Local\Programs\Ollama
 
 
-JOIN MY DISCORD FOR WORKING FILES : https://bit.ly/43cEAai
+JOIN MY DISCORD FOR WORKING FILES : https://bit.ly/6600Discord
 
 ROCM Installer: https://bit.ly/4gZb3nI
